@@ -28,7 +28,7 @@ packages:
 - "ca-certificates"
 - "python"
 remotes:
-- "url": "https://github.com/zcoinofficial/zcoin"
+- "url": "https://github.com/josephnicholas/zcoin"
   "dir": "zcoin"
 files: []
 script: |
